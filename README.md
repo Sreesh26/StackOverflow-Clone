@@ -4,7 +4,7 @@ This is a Stack Overflow Clone bootstrapped with `npx create-react-app`
 ## How to run the app
 - Clone the repository. <br>
 ```
-git clone https://github.com/OMKAR-KALEPU/StackOverflow-Clone
+git clone https://github.com/Sreesh26/StackOverflow-Clone
 ```
 
 - Install dependencies in both client & server.
